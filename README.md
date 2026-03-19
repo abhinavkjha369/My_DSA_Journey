@@ -1,2 +1,47 @@
-# My_DSA_Journey
-My journey of mastering Data Structures &amp; Algorithms 🚀
+# 🚀 My DSA Journey
+
+Hi, I'm Abhinav 👋  
+Welcome to my DSA journey!
+
+---
+
+## 🧠 About This Repo
+
+This repository contains my solutions to Data Structures & Algorithms problems.
+
+- 📌 Topic-wise structured
+- ⚡ Optimized solutions
+- 🧾 Clean code with comments
+- 📈 Consistent progress
+
+---
+
+## 📂 Topics Covered
+
+- 🔢 Arrays  
+- 🔤 Strings  
+- 🔗 Linked List  
+- 🌳 Trees  
+- 🌐 Graphs  
+- 🔁 Recursion & Backtracking  
+- 📊 Dynamic Programming  
+- ⚡ Greedy  
+- 🪟 Sliding Window  
+- 🔍 Binary Search  
+
+---
+
+## 🎯 Goal
+
+- Master DSA deeply  
+- Crack top product-based companies  
+
+---
+
+## 🔥 Status
+
+🚀 Started my journey — consistency is key!
+
+---
+
+💬 *"Consistency beats motivation."*
