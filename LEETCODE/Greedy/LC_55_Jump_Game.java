@@ -1,0 +1,22 @@
+// Problem: LeetCode 55 - Jump Game
+// Topic: Arrays / Greedy
+// Approach: Greedy (Track Maximum Reachable Index)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
+class Solution {
+    public boolean canJump(int[] nums) {
+        int maxReach = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+
+            if (i > maxReach) {
+                return false;
+            }
+
+            maxReach = Math.max(maxReach, i + nums[i]);
+        }
+
+        return true;
+    }
+}
